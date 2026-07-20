@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/impacto-socioambiental-blue" />
   <img src="https://img.shields.io/badge/abertos%20a-parcerias%20estrat%C3%A9gicas-blue" />
 </p>
-<p align="center">O Brasil vem desperdiçando mais de <strong> 36 milhões de toneladas de alimentos por ano </strong>. Grande parte desse desperdício acontece por falta de um sistema acessível de controle de validade no varejo. <br> <strong>O FrosrCode resolve isso.</strong></p>
+<p align="center">O Brasil vem desperdiçando mais de <strong> 36 milhões de toneladas de alimentos por ano </strong>. Grande parte desse desperdício acontece por falta de um sistema acessível de controle de validade no varejo. <br> <strong>O DateWatch resolve isso.</strong></p>
 <p align="center">Somos uma solução inteligente de <strong>monitoramento de validade</strong> para pequenos negócios — alertas automáticos, controle de estoque em tempo real e interface acessível em qualquer dispositivo.</p>
 <h2 align="center">O Problema</h2>
 
@@ -75,7 +75,7 @@
       <strong>Gustavo Steferson</strong><br>
       <span>Co-founder & CMO</span><br><br>
       <kbd>Business Strategist</kbd> <kbd>Idealizador & Integrador</kbd> <kbd>Business Developer</kbd><br><br>
-      <sub>Responsável pelo posicionamento estratégico da FrostCode no mercado, atuando no desenvolvimento da marca, análise de oportunidades e suporte operacional em múltiplas áreas do projeto.</sub>
+      <sub>Responsável pelo posicionamento estratégico da DateWatch no mercado, atuando no desenvolvimento da marca, análise de oportunidades e suporte operacional em múltiplas áreas do projeto.</sub>
     </td>
     <td align="center" width="220" valign="top">
       <img width="100" height="100" src="https://github.com/FrostCode-Ofc/Foto-Kevin/blob/1b408deccc4fb6751a47c4841a73e21eed078cd2/df4223f1-0b4e-4e4c-b346-4d666478e799.jpg?raw=true" style="border-radius: 50%; object-fit: cover;" alt="Kevin"/>
