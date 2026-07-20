@@ -102,7 +102,7 @@
       <a href="mailto:frostcode.ofc@gmail.com" target="_blank"><img width="40" src="https://img.icons8.com/?size=100&id=37246&format=png&color=000000" /></a>
     </td>
     <td>
-      <strong>datewatch.dw@gmail.com</strong>
+      <strong>datewatch.atendimento@gmail.com</strong>
     </td>
   </tr>
 </table>
